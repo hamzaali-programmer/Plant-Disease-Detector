@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 Wheat Plant Disease Detector
 
 A Machine Learning based web application that detects wheat leaf diseases using image classification.
@@ -60,3 +61,7 @@ streamlit run app.py
 ## Author
 
 Hamza
+=======
+# Plant-Disease-Detector
+Machine Learning project for detecting wheat diseases using Streamlit.
+>>>>>>> 844c02dfaa70c8939d5013c3c64a9cb9f88bfd0d
